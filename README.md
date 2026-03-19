@@ -4,6 +4,7 @@ ValidatorApi is a REST API for validating different types of data.
 
 Currently implemented validator:
 - IBAN
+- Luhn
 
 The project is designed to be extended with additional validators (for example: tax IDs, national IDs, card numbers, and more).
 
